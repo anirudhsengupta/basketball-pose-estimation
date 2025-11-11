@@ -2,7 +2,9 @@
 
 This project uses **OpenCV** and **MediaPipe** to track a basketball player’s body position and shooting motion in real time, along with live detection of the basketball. It provides a side-by-side display of the **live camera feed** and a **3D mannequin simulation**, helping players analyze the angle made with their right elbow.
 
----
+<img width="1202" height="562" alt="bbt_demo" src="https://github.com/user-attachments/assets/faaa1f23-91db-4f82-a898-1221ee1bbbd5" />
+
+[Click Here for Full Demo](https://youtu.be/vbthmnTVBMs?si=dPYJuozyx0Uo_tgD)
 
 ## Features
 - **Full-body tracking** using MediaPipe Pose Estimation
